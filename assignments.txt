@@ -1,0 +1,10 @@
+Deadline: 13th Aug (have to mail)
+1) Straight Line using DDA - done
+2) Circle using DDA
+3) Straight Line using Bresenham
+4) Circle Line using Bresenham
+5) Draw Home
+
+Extra problem:
+1) Bouncing Ball - straight line - atleast 3 bounces - ball comes into our face
+2) Dancing Stickman - 20s
