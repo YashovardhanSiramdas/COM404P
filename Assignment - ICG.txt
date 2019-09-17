@@ -1,0 +1,8 @@
+Assignment - ICG
+Software package either in Python/WebGL
+Animation - 5 min - 1000 lines
+Oct 15
+Story based - Moral
+atleast 10 different framaes
+20 marks
+Sound

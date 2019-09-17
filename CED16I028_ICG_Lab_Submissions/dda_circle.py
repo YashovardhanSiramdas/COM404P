@@ -31,7 +31,7 @@ pygame.init()
 black = (0, 0, 0)
 white = (255, 255, 255)
 
-size = [1440, 900]
+size = [700, 700]
 screen = pygame.display.set_mode(size)
 
 screen.fill(white)

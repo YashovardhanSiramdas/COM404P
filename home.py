@@ -3,10 +3,10 @@ from pygame import gfxdraw
 import sys
 
 
-x0 = int(input("Enter the value of X0: "))
-y0 = int(input("Enter the value of Y0: "))
-x1 = int(input("Enter the value of X1: "))
-y1 = int(input("Enter the value of Y1: "))
+x0 = 500
+y0 = 
+x1 = 
+y1 = 
 
 dx = abs(x1-x0)
 dy = abs(y1-y0)
